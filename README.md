@@ -20,7 +20,7 @@ responsible for organizing output & editing documents for presenting.
 All team members contributed to the planning sessions  and researching for ideas on weakly supervized learning.
 1. Jiapeng Xu helped build model 1 and researched on transfer learning and image augmentation. He tried his own method training model 2 and got the accuracy of 50%. 
 2. Zhejing Shi helped develop model 1 and model2 and debug the models. For model 2 he applied the label updating and selection technique to make predictions, and his final model gave us a 70% accuracy. He also researched and applied techniques such as early stopping and transfer learning. Helped organize github files.
-3. Yudan Zhang researched Label Cleaning technique, make model architecture drawings for Powerpoint, organize Github files, and prepared the presentation documentation
+3. Yudan Zhang researched Label Cleaning techniques, primarily created the Powerpoint and made model architecture drawings, organized Github files, and prepared the other documentations for presenting. 
 4. John Podias helped with presentation documentation, organize Github files, did some independent research on strategies, and presented our work to the class
 
 
