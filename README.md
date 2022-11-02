@@ -14,7 +14,8 @@ Term: Fall 2022
 
 + Project summary: In this project, we built two image classification models that build upon the baseline logistic regression model that has very low accuracy. Our model 1 uses neural network methods and still has low accuracy of 20 percent due to the label noise. Our model 2 uses a similar model, but does label correction to improve accuracy. This final model gives us a 70 percent accuracy.
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: in this project, Zhejing Shi & Jiapeng Xu mostly focus on coding model I & II. Yudan Zhang & John Podias are mainly 
+responsible for organizing output & editing documents for presenting.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
