@@ -32,7 +32,7 @@ proj/
 ├── data/
 ├── doc/
 	└── main.ipby
-	└──main.pdf
+	└──main_final.pdf
 	└──Model_clean.h5
 	└──Model_final.h5
 
